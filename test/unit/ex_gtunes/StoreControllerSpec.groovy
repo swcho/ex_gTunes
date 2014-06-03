@@ -16,5 +16,10 @@ class StoreControllerSpec extends Specification {
     }
 
     void "test something"() {
+        when:
+        controller.index();
+
+        then:
+        response.text == 'Welcome to the gTunes store!';
     }
 }
