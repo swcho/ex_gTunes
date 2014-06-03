@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="swdev" id="0" name="StoreControllerSpec" package="ex_gtunes" tests="1" time="3.805" timestamp="2014-06-03T08:16:46">
+      <properties />
+
+      <testcase classname="ex_gtunes.StoreControllerSpec" name="test something" time="3.784" />
+
+      <system-out><![CDATA[--Output from test something--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from test something--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
